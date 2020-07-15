@@ -1,0 +1,6 @@
+framework module WKLaunch {
+  umbrella header "WKLaunch-umbrella.h"
+
+  export *
+  module * { export * }
+}

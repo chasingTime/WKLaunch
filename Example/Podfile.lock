@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+  - WKLaunch (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta
+  - WKLaunch (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  WKLaunch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  WKLaunch: 5713d3cd7aad3a66bc1ac1603e3fc8601fff957f
+
+PODFILE CHECKSUM: 7ec50421896f05abd9b136b8dd24cd889e8d2bcb
+
+COCOAPODS: 1.9.1
